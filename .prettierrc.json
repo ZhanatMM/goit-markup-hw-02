@@ -1,0 +1,37 @@
+{
+<<<<<<< HEAD
+	"arrowParens": "avoid",
+	"bracketSpacing": true,
+	"htmlWhitespaceSensitivity": "strict",
+	"insertPragma": false,
+	"jsxBracketSameLine": false,
+	"jsxSingleQuote": false,
+	"printWidth": 120,
+	"proseWrap": "preserve",
+	"quoteProps": "as-needed",
+	"requirePragma": false,
+	"semi": true,
+	"semicolon": false,
+	"singleQuote": false,
+	"tabWidth": 2,
+	"trailingComma": "all",
+	"useTabs": true
+=======
+"arrowParens": "avoid",
+"bracketSpacing": true,
+"htmlWhitespaceSensitivity": "strict",
+"insertPragma": false,
+"jsxBracketSameLine": false,
+"jsxSingleQuote": false,
+"printWidth": 120,
+"proseWrap": "preserve",
+"quoteProps": "as-needed",
+"requirePragma": false,
+"semi": true,
+"semicolon": false,
+"singleQuote": false,
+"tabWidth": 2,
+"trailingComma": "all",
+"useTabs": true
+>>>>>>> a4dd7e861519c0e04422b1ffb4fd0628b4801323
+}
